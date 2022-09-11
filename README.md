@@ -1,12 +1,9 @@
-# new_front
-make something..
+# Did u know?
 
-what i want to make?
-  
-  internet web diary
-  
-    First of all, you could write and share.
-  
-    Second, it has log in & out.
-  
-    Furthermore it shows as calender.
+Before make full website this will be prototype web page.
+
+Shows jokes likes "Did u know?" fact.
+
+Furthermore people can sign in & out.
+
+With log in they can register jokes.
