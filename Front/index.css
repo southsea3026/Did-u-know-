@@ -1,0 +1,67 @@
+@charset "UTF-8";
+
+.home_tab{
+    display: flex;
+    text-align: center;
+}
+
+.home_icon{    
+    color : red;
+}
+
+.home_name{
+    color : red;
+}
+
+.search_bar{
+    color : red;
+    width: 30%;
+}
+
+.sign_in_div{
+    color : red;
+}
+
+.sign_in{
+    color : red;
+}
+
+.log_in{
+    color : red;
+}
+
+.Facts{
+    display: flex;
+}
+
+.main_title{
+    color : red;
+}
+
+.left_button{
+    color : red;
+}
+
+.right_button{
+    color : red;
+}
+
+.facts_word{
+    color : red;
+}
+
+.content_div{
+    display: flex;
+}
+
+.add_new{
+    color : red;
+}
+
+.share{
+    color : red;
+}
+
+footer{
+    color:red;
+}
