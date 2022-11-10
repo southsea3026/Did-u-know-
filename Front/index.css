@@ -2,28 +2,38 @@
 
 .home_tab{
     display: flex;
+    justify-content: center;
+    align-items: center;
     text-align: center;
+    background-color: antiquewhite;
 }
 
-.home_icon{    
+.home_icon{
     color : red;
+    background-color:rgb(255, 186, 174)
 }
 
 .home_name{
     color : red;
+    background-color: rgba(187, 255, 232, 0.904);
 }
 
 .search_bar{
     color : red;
     width: 30%;
+    background-color:rgb(207, 207, 253);
 }
 
 .sign_in_div{
-    color : red;
+    background-color:rgb(255, 186, 174)
 }
 
 .sign_in{
     color : red;
+}
+
+.log_in_div{
+    background-color:rgb(207, 207, 253);
 }
 
 .log_in{
@@ -32,36 +42,82 @@
 
 .Facts{
     display: flex;
-}
-
-.main_title{
-    color : red;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(163, 241, 196, 0.726);
 }
 
 .left_button{
     color : red;
+    background-color: rgb(196, 255, 255);
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.word_wrapper{
+    background-color: rgba(108, 130, 255, 0.651);
+    padding-top: 3%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.main_title{
+    color : red;
+    background-color: rgba(239, 255, 147, 0.712);
+    text-align: center;
+    font-size: 20pt;
+    padding-top: 2px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.facts_wrapper{
+    background-color: rgb(217, 196, 255);
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.facts_word{
+    color : red;
+    background-color: rgb(255, 196, 250);
+    padding-top: 5%;
+    padding-left: 19%;
+    padding-right: 19%;
+    padding-bottom: 5%;
 }
 
 .right_button{
     color : red;
-}
-
-.facts_word{
-    color : red;
+    background-color: rgb(196, 255, 255);
+    padding-left: 5px;
+    padding-right: 5px;
 }
 
 .content_div{
     display: flex;
+    background-color: rgb(224, 123, 123);
+    padding-top: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-bottom: 1%;
+    justify-content: center;
 }
 
 .add_new{
     color : red;
+    background-color: rgba(4, 8, 253, 0.671);
 }
 
+.space{
+    padding-left: 20px;
+    padding-right: 20px;
+}
 .share{
     color : red;
+    background-color: darkseagreen;
 }
 
 footer{
     color:red;
+    background-color: rgb(127, 240, 255);
 }
